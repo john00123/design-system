@@ -4,7 +4,7 @@ description: >-
   direct, clear, messaging to our customers
 ---
 
-# Products Assets
+# Products
 
 ### Logos inside Product
 
@@ -48,7 +48,7 @@ In multi-cloud environments, cloud operators need integrated services that work 
 
 | Enterprise Products |  |
 | :--- | :--- |
-| ![](.gitbook/assets/buckets.svg) Buckets | Storage Services |
+| ![](.gitbook/assets/buckets.svg) Objects | Storage Services |
 | ![](.gitbook/assets/era.svg) Era | Automation and orchestration |
 | ![](.gitbook/assets/karbon.svg) Karbon | Storage Services |
 | ![](.gitbook/assets/mine.svg) Mine | Backup and recovery Solutions |

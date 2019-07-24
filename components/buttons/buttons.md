@@ -2,6 +2,8 @@
 
 ## Button
 
+ 
+
 Please refer to the Digital Foundations documentation for guidelines on [call to actions ↗](https://digital-foundations.netlify.com/cta/). In addition to those guidelines, the following also apply to buttons in the Plasma system:
 
 #### General guidelines <a id="general-guidelines"></a>
@@ -18,8 +20,6 @@ Please refer to the Digital Foundations documentation for guidelines on [call to
 * Buttons contained in narrow spaces \(e.g. filters\) should fill 100% of the width available to them. This helps with cleaner alignment with other elements in that column, and also aligns multiple buttons when stacked.
 * If multiple buttons are horizontally aligned, there should be a 20px margin separating them.
 * If multiple buttons are stacked vertically, there should be a 10px margin separating them.
-
-![Spec for buttons](http://plasma.guide/button-spec.png)
 
 #### Animation <a id="animation"></a>
 

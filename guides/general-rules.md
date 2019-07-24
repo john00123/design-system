@@ -21,7 +21,7 @@ These sizes act as the cornerstone for setting up a scene and realizing what is 
 | **900px** | **600px** | Extra Large | `Full Page no text` |
 | **440px** | **300px** | Large | `On-boarding (1)` `Popup`  `Empty State` |
 | **440px** | **200px** | Medium | `On-boarding (3)` `Popup` |
-| **126px** | **126px** | Square | `Empty State` `Multistep On-boarding` |
+| **120px** | **120px** | Square | `Empty State` `Multistep On-boarding` |
 
 ### 
 

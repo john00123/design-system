@@ -85,7 +85,7 @@ Ask vague questions like “Are you sure?”
 
 Be vague about action buttons.
 
-![](../.gitbook/assets/0%20%282%29.png)
+![](../.gitbook/assets/0%20%282%29.png) 
 
 ### 
 

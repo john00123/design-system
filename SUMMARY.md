@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Design Documentation](README.md)
-* [Products Assets](product-logos.md)
+* [Introduction](README.md)
+* [Products](product-logos.md)
 
 ## Guides
 
@@ -9,6 +9,7 @@
 * [Research](guides/untitled.md)
 * [Content](guides/content-guidelines.md)
 * [Illustration](guides/general-rules.md)
+* [Animation](guides/animation.md)
 
 ## Primitives
 
