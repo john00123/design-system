@@ -6,9 +6,9 @@
 ## Guides
 
 * [Accesibility](guides/accesibility.md)
-* [Research](guides/untitled.md)
 * [Content](guides/content-guidelines.md)
 * [Illustration](guides/general-rules.md)
+* [🔒 Research](https://sites.google.com/nutanix.com/research/home)
 * [Animation](guides/animation.md)
 
 ## Primitives
