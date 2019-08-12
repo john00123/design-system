@@ -85,7 +85,7 @@ Ask vague questions like “Are you sure?”
 
 Be vague about action buttons.
 
-![](../.gitbook/assets/0%20%283%29.png) 
+![](../.gitbook/assets/0%20%285%29.png) 
 
 ### 
 
@@ -108,16 +108,16 @@ Don’t: Don’t place text which user will need to memorize for cross-verifying
 
 Do: Place text that user might need after filling the field as notes.
 
-![](../.gitbook/assets/2%20%282%29.png)
+![](../.gitbook/assets/2%20%283%29.png)
 
 Don’t: Avoid repeating the field labels and excessive usage of please as placeholder text.
 
-![](../.gitbook/assets/3%20%282%29.png)
+![](../.gitbook/assets/3%20%283%29.png)
 
   
 Do: Use action-oriented placeholder text in sentence style capitalization.
 
-![](../.gitbook/assets/4%20%282%29.png)
+![](../.gitbook/assets/4%20%283%29.png)
 
 #### Notes
 

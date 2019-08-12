@@ -72,7 +72,7 @@ The color palette is a continuation of that used in the Nutanix design system's 
       <td style="text-align:left">
         <p></p>
         <p>
-          <img src="../.gitbook/assets/2 (1).png" alt/>
+          <img src="../.gitbook/assets/2 (2).png" alt/>
         </p>
       </td>
     </tr>
@@ -116,7 +116,7 @@ Nutanix is a multitude of complex, interconnecting products and services; all fi
       <td style="text-align:left">
         <p></p>
         <p>
-          <img src="../.gitbook/assets/4.png" alt/>
+          <img src="../.gitbook/assets/4 (1).png" alt/>
         </p>
       </td>
     </tr>
@@ -129,7 +129,7 @@ Nutanix is a multitude of complex, interconnecting products and services; all fi
       <td style="text-align:left">
         <p></p>
         <p>
-          <img src="../.gitbook/assets/5 (1).png" alt/>
+          <img src="../.gitbook/assets/5 (2).png" alt/>
         </p>
       </td>
     </tr>

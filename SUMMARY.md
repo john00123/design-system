@@ -20,12 +20,12 @@
 
 ## Components
 
-* [Basic Inputs](components/buttons/README.md)
-  * [Buttons](components/buttons/buttons.md)
-  * [Checkbox](components/buttons/checkbox.md)
-  * [Input Fields](components/buttons/input-fields.md)
-  * [Radio](components/buttons/radio.md)
-  * [Slider](components/buttons/slider.md)
+* [Basic Inputs](components/basic-inputs/README.md)
+  * [Buttons](components/basic-inputs/buttons.md)
+  * [Checkbox](components/basic-inputs/checkbox.md)
+  * [Input Fields](components/basic-inputs/input-fields.md)
+  * [Radio](components/basic-inputs/radio.md)
+  * [Slider](components/basic-inputs/slider.md)
 * [Navigation](components/navigation/README.md)
   * [App Switcher](components/navigation/app-switcher.md)
   * [Header](components/navigation/header.md)
