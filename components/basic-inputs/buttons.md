@@ -1,105 +1,67 @@
 # Buttons
 
-### **Primary button**
+## **General guidelines**
 
-![](../../.gitbook/assets/4.png)
-
-### **Secondary button**
-
-![](../../.gitbook/assets/5%20%281%29.png)
-
-### **Link button**
-
-## **Buttons**
-
-Please refer to the Digital Foundations documentation for guidelines on [call to actions ↗](https://digital-foundations.netlify.com/cta/). In addition to those guidelines, the following also apply to buttons in the Plasma system:
-
-#### **General guidelines**
-
-* Text on buttons should always use the Semibold text style.
-* Button height is 32px \(in the case of bordered buttons it includes top/bottom 1px\).
+* Button line height is 32px \(in the case of bordered buttons it includes top/bottom 1px\).
 * Don't use multiple primary buttons in a single view.
 
-#### **Spacing guidelines**
+## Spacing guidelines
 
-![](../../.gitbook/assets/1%20%282%29.png)
+![](../../.gitbook/assets/0%20%287%29.png)
 
-* Buttons have left/right padding of 15px \(except for link buttons, which have no padding\).
+* Buttons have left/right padding of 15px $medium-space \(except for link buttons, which have no padding\).
 * Buttons contained in narrow spaces \(&gt;150px\) should fill 100% of the width available to them. This helps with cleaner alignment with other elements in that column, and also aligns multiple buttons when stacked.
 * If multiple buttons are horizontally aligned, there should be a 20px margin separating them.
 
-#### **Animation**
+## **Animation**
 
 * There is a subtle fade transition from normal to hover state on buttons.
 * transition: all 0.2s;
-* Loading animation inside the button corresponds to the loader
+* Loading animation inside the button corresponds to the loader definition
 
-#### **Disabled state**
+## **Disabled state**
 
 * All button styles follow the same disabled state:
-* No background color \(opaque fill\).
-* All colors including text, border and any icon are $blackor $white
-* Disabled button has an opacity of 10%.
+* No background color opacity, we use a color variable.
+* All colors including text, border and any icon are @font-color-1 or @white
 
-#### **Content**
+## **Content**
 
 * An ideal button labeling has a {verb} + {noun} structure. A verb indicates the button is actionable while giving the idea about what to expect.
 * Avoid generic labels like “OK”, “Cancel”, “Done” for buttons.
 
-\*\*\*\*
+## Accessibility
 
-\*\*\*\*
+* Use the ariaControls prop to add an aria-controls attribute to the button. Use the attribute to point to the unique id of the content that the button manages.
+* Buttons use browser defaults for keyboard interactions.
+* Give buttons keyboard focus with the tab key \(or shift + tab when tabbing backwards\)
+* Activate buttons with the enter/return key or the space key
 
-\*\*\*\*
+## Button types
 
-#### **Buttons**
+## 
 
-Do
+## Primary
 
-Buttons should be used as the most important actions of the UI, because they have the strongest visual features that are calling a lot of attention.
+![](../../.gitbook/assets/2%20%282%29.png)
 
+![](../../.gitbook/assets/3%20%283%29.png)
 
+Buttons call for action. We often use a primary button to draw attention to a page’s highest priority action.
 
-* Borderless Don’t border-less buttons should not be used on white backgrounds.
-  * Idle
-  * Hovered
-  * Pressed
-  * Disabled
-  * Loading
-* With Icon Primary
-  * Idle
-  * Hovered
-  * Pressed
-  * Disabled
-  * Add
-* With Icon Secondary
-  * Idle
-  * Hovered
-  * Pressed
-  * Disabled
-* Forward Primary Do Most forward buttons are styled as a primary button since they often indicate the next step of the current UI. However, it’s also acceptable to use them as secondary buttons, where for instance another button has more importance.
-  * Idle
-  * Hovered
-  * Pressed
-  * Disabled
-* Forward Secondary
-  * Idle
-  * Hovered
-  * Pressed
-  * Disabled
-* Backward
-  * Idle
-  * Hovered
-  * Pressed
-  * Disabled
-* With Options
-  * Idle
-  * Expanded
-  * Expanded & Help
-  * Expanded & Help Expanded
-* Splitted
-  * Idle
-  * Hovered Default
-  * Hovered Alternative
-  * Expande
-* 
+* Text on buttons should always use the Semibold text style.
+* You should only use one primary action per page.
+*  If there isn’t any one clear primary action, then consider using one or a combination of the other button styles.
+
+## Secondary
+
+We have two secondary buttons in our design system today.
+
+* Use borderless buttons on gray background.
+* You should only use one primary action per page.
+* If there isn’t any one clear primary action, then consider using one or a combination of the other button styles.
+
+![](../../.gitbook/assets/4%20%284%29.png)
+
+![](../../.gitbook/assets/5%20%283%29.png)
+

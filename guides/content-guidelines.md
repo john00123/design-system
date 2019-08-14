@@ -104,15 +104,15 @@ This is the light text that appears within a field label and disappears when dat
 
 Don’t: Don’t place text which user will need to memorize for cross-verifying after he/she has entered the data as a placeholder text.
 
-![](../.gitbook/assets/1%20%281%29.png)
+![](../.gitbook/assets/1%20%282%29.png)
 
 Do: Place text that user might need after filling the field as notes.
 
-![](../.gitbook/assets/2%20%283%29.png)
+![](../.gitbook/assets/2%20%284%29.png)
 
 Don’t: Avoid repeating the field labels and excessive usage of please as placeholder text.
 
-![](../.gitbook/assets/3%20%283%29.png)
+![](../.gitbook/assets/3%20%284%29.png)
 
   
 Do: Use action-oriented placeholder text in sentence style capitalization.
