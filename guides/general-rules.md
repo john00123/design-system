@@ -72,7 +72,7 @@ The color palette is a continuation of that used in the Nutanix design system's 
       <td style="text-align:left">
         <p></p>
         <p>
-          <img src="../.gitbook/assets/2 (3).png" alt/>
+          <img src="../.gitbook/assets/2 (5).png" alt/>
         </p>
       </td>
     </tr>
@@ -102,7 +102,7 @@ Nutanix is a multitude of complex, interconnecting products and services; all fi
       <td style="text-align:left">
         <p></p>
         <p>
-          <img src="../.gitbook/assets/3.png" alt/>
+          <img src="../.gitbook/assets/3 (1).png" alt/>
         </p>
       </td>
     </tr>
@@ -116,7 +116,7 @@ Nutanix is a multitude of complex, interconnecting products and services; all fi
       <td style="text-align:left">
         <p></p>
         <p>
-          <img src="../.gitbook/assets/4 (1).png" alt/>
+          <img src="../.gitbook/assets/4 (2).png" alt/>
         </p>
       </td>
     </tr>
@@ -142,7 +142,7 @@ Nutanix is a multitude of complex, interconnecting products and services; all fi
       <td style="text-align:left">
         <p></p>
         <p>
-          <img src="../.gitbook/assets/6.png" alt/>
+          <img src="../.gitbook/assets/6 (1).png" alt/>
         </p>
       </td>
     </tr>
@@ -330,7 +330,7 @@ In keeping with our choice of palette and use of isometric construction, we felt
         <p></p>
         <p></p>
         <p>
-          <img src="../.gitbook/assets/image.png" alt/>
+          <img src="../.gitbook/assets/image (1).png" alt/>
         </p>
       </td>
     </tr>

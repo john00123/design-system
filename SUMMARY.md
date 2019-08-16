@@ -8,7 +8,6 @@
 * [Accesibility](guides/accesibility.md)
 * [Content](guides/content-guidelines.md)
 * [Illustration](guides/general-rules.md)
-* [🔒 Research](https://sites.google.com/nutanix.com/research/home)
 * [Animation](guides/animation.md)
 
 ## Primitives
@@ -69,8 +68,9 @@
   * [Geo-Spatial Charts](visualization-design-system/chart-types/geo-spatial-charts.md)
   * [Timeline Chart](visualization-design-system/chart-types/timeline-chart.md)
 
-## OTHER RESOURCES
+## OTHER RESOURCES \(VPN\) <a id="other"></a>
 
-* [🔒 Illustrations \(VPN\)](http://library.ntnx.design)
-* [🔒 Dev styleguide  \(VPN\)](http://prism-styleguide)
+* [🔒 Research](https://sites.google.com/nutanix.com/research/home)
+* [🔒 Illustrations](http://library.ntnx.design)
+* [🔒 Code Sandbox](http://prism-styleguide:8080)
 

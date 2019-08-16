@@ -85,7 +85,7 @@ Ask vague questions like “Are you sure?”
 
 Be vague about action buttons.
 
-![](../.gitbook/assets/0%20%285%29.png) 
+![](../.gitbook/assets/0%20%288%29.png) 
 
 ### 
 
@@ -104,20 +104,20 @@ This is the light text that appears within a field label and disappears when dat
 
 Don’t: Don’t place text which user will need to memorize for cross-verifying after he/she has entered the data as a placeholder text.
 
-![](../.gitbook/assets/1%20%282%29.png)
+![](../.gitbook/assets/1%20%285%29.png)
 
 Do: Place text that user might need after filling the field as notes.
 
-![](../.gitbook/assets/2%20%284%29.png)
+![](../.gitbook/assets/2%20%286%29.png)
 
 Don’t: Avoid repeating the field labels and excessive usage of please as placeholder text.
 
-![](../.gitbook/assets/3%20%284%29.png)
+![](../.gitbook/assets/3%20%286%29.png)
 
   
 Do: Use action-oriented placeholder text in sentence style capitalization.
 
-![](../.gitbook/assets/4%20%283%29.png)
+![](../.gitbook/assets/4%20%286%29.png)
 
 #### Notes
 
@@ -133,7 +133,7 @@ Try wording the link as a question a user would ask himself/herself while fillin
 
 Always right-align a block or column of whole numbers or of whole numbers and text. Align numbers at the decimal point \(or imaginary decimal point if there are only whole numbers\).
 
-![](../.gitbook/assets/6%20%282%29.png)
+![](../.gitbook/assets/6%20%283%29.png)
 
 ## Grammar and Syntax
 
