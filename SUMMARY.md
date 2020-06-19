@@ -7,7 +7,7 @@
 
 * [Accesibility](guides/accesibility.md)
 * [Content](guides/content-guidelines.md)
-* [Illustration](guides/general-rules.md)
+* [Illustration](guides/illustration.md)
 * [Animation](guides/animation.md)
 
 ## Primitives

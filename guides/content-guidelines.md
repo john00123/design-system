@@ -210,7 +210,9 @@ Exception: When the preposition is part of a verb phrase, as in “Starting Up t
       </td>
     </tr>
   </tbody>
-</table>Follow sentence style capitalization for buttons, radio button text, checkbox text, options that are not strictly labels, and dialog messages. Capitalize the first letter of the first word. Everything else should be in lowercase, except proper nouns or proper adjectives.
+</table>
+
+Follow sentence style capitalization for buttons, radio button text, checkbox text, options that are not strictly labels, and dialog messages. Capitalize the first letter of the first word. Everything else should be in lowercase, except proper nouns or proper adjectives.
 
 <table>
   <thead>
@@ -239,7 +241,9 @@ Exception: When the preposition is part of a verb phrase, as in “Starting Up t
       <td style="text-align:left">Are you sure you want to exit without saving your changes?</td>
     </tr>
   </tbody>
-</table>### Time and Date
+</table>
+
+### Time and Date
 
 #### Relative Timestamps
 
